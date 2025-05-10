@@ -1,0 +1,8 @@
+.history
+.jj
+.env
+.o
+.ob
+.exe
+node_modules/
+.vscode/settings.json
